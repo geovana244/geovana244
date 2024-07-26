@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there
+meu nome é geovana 244
+estou estudando muito
+sou uma diva e humilho homem
 <!--
 **geovana244/geovana244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](link)
